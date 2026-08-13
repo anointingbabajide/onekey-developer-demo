@@ -98,4 +98,4 @@ Make sure OneKey Bridge is running and the device is connected via USB before st
 
 ## Disclaimer
 
-This is a demo built for a technical walkthrough, not production-audited code. The contract and backend are intentionally minimal to focus on the OneKey integration itself. See [video link] for the full explanation of the architecture and security model.
+This is a demo built for a technical walkthrough, not production-audited code. The contract and backend are intentionally minimal to focus on the OneKey integration itself. See [https://youtu.be/6ps_bcMf8q8] for the full explanation of the architecture and security model.

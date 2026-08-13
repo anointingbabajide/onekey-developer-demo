@@ -1,4 +1,3 @@
-// src/tx/routes/withdraw.ts
 import { Router } from "express";
 import { signTypedData } from "../../auth/hardware/signing";
 import { getActiveDevice } from "./device";
